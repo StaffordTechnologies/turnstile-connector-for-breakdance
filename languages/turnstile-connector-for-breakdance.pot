@@ -1,0 +1,8 @@
+# Copyright (C) 2026 Stafford Technologies
+# This file is distributed under the same license as the Turnstile Connector for Breakdance package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Turnstile Connector for Breakdance 1.1.0\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"

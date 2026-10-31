@@ -1,0 +1,12 @@
+.stbd-verification { width: 100%; flex-basis: 100%; min-width: 0; margin: 8px 0 12px; grid-column: 1 / -1; }
+.breakdance .breakdance-form.stbd-horizontal-form { grid-auto-flow: row !important; grid-template-columns: minmax(0, 1fr) !important; }
+.breakdance .breakdance-form.stbd-horizontal-form > .breakdance-form-field,
+.breakdance .breakdance-form.stbd-horizontal-form > .stbd-verification { grid-column: 1 / -1 !important; grid-row: auto !important; }
+.stbd-widget { max-width: 100%; }
+.stbd-status { font: inherit; font-size: 14px; line-height: 1.4; margin: 6px 0 0; }
+.stbd-status:empty { display: none; }
+.stbd-status[data-error="true"] { color: #a51d20; }
+.stbd-retry { margin-top: 6px; font: inherit; font-size: 14px; cursor: pointer; }
+.stbd-retry[hidden] { display: none !important; }
+.stbd-admin #stbd-diagnostic { max-width: 500px; }
+.stbd-admin #stbd-test-results { margin-top: 16px; }
